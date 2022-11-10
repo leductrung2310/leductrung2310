@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning How to be a typical Mobile Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/leductrung2310](https://github.com/leductrung2310)
 
